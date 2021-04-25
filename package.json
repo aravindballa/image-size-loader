@@ -1,8 +1,9 @@
 {
-  "name": "image-size-loader",
-  "version": "0.7.0",
+  "name": "@aravindballa/image-size-loader",
+  "version": "0.7.1",
   "author": "Patrick Collins <pat@burned.com>",
   "contributors": [
+    "Aravind Balla <hey@balla.dev>",
     "Boopathi Rajaa <me@boopathi.in>",
     "Patrick Collins <pat@burned.com>",
     "Vignesh Shanmugam <vignesh.shanmugam22@gmail.com>"
